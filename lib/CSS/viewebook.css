@@ -1,0 +1,13 @@
+#canvas_container {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+#canvas_container {
+  text-align: center;
+}
+
+body{
+  background: #333;
+}

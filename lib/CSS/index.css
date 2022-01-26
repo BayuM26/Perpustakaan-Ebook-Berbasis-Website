@@ -1,0 +1,62 @@
+.font{
+    color: black;
+}
+ 
+ .item{
+     margin-left: 350px;
+ }
+
+ .item a{
+     margin-right: 10px;
+ }
+.png img{
+    
+    margin-right: 10px;
+    
+}	
+
+.pbw {
+    color:white;
+    font-size: 30px;
+    position: absolute;
+        text-align:center;
+        top:30%;
+        left:30%;
+
+
+}
+
+.containerbook{
+    min-height:300px;
+    background-image: url('../../lib/img/buku.jpg');
+    
+}
+
+.set{
+    margin-top: 15px;
+    text-align: center;
+}
+
+
+.tulisan{
+    min-height: 75px;
+    background: rgb(28, 28, 245);
+    margin-top: 20px;
+}
+
+.r p{
+    font-size: 14px;
+    color: white;
+    text-align: center;
+}
+
+.gambar{
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.containerinfo{
+    min-height: 75px;
+    margin-top: 150px;
+}
